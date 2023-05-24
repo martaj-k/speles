@@ -93,3 +93,4 @@ else:
 
 
 
+print ("Paldies par spēli!!!")
