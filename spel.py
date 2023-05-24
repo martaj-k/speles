@@ -18,7 +18,7 @@ mate == "1"
 akm == "2"
 jaut == "3"
 
-cip = int ("Ievadi spēles numuru kuru vēlies spēlēt (1 - Matemātika , 2 - Krustiņi nullītes, 3 - Jautājumi )")
+cip = int ("Ievadi spēles numuru kuru vēlies spēlēt (1 - Matemātika , 2 - Akmens Šķēres Papīrīts, 3 - Jautājumi )")
 if cip == "3" :
     open.jaut 
 
