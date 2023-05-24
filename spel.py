@@ -19,6 +19,8 @@ akm == "2"
 jaut == "3"
 
 cip = int ("Ievadi spēles numuru kuru vēlies spēlēt (1 - Matemātika , 2 - Akmens Šķēres Papīrīts, 3 - Jautājumi )")
-if cip == "3" :
-    open.jaut 
-
+#if cip == "3" :
+#    import jaut
+# mate.manafunkcija(1)
+#if cip == "2":
+#   import akm
